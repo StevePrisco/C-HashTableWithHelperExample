@@ -1,7 +1,7 @@
 typedef struct list
 {
  char *str;
- int timesRead;
+ int timesRead; 
  struct list *next;
 } list;
 

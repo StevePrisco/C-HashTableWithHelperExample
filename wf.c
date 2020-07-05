@@ -1,6 +1,6 @@
 /*
 * File: wf.c
-* Author: Steve Prisco
+* Author: Steve Prisco 
 * Description: This file is to be compiled with hashTableA6.c. This file contains the code to take user-input, and the code to 'clean' the input.
 *              This calls functions from hashTableA6.c to add words to a hash table.
 */

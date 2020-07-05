@@ -1,5 +1,5 @@
 /*
-* File: hashTableA6.c
+* File: hashTableA6.c 
 * Author: Steve Prisco
 * Description: Hash table designed for use with a6
 * A LOT OF INTERNET SOURCES WERE USED WHEN DESIGNING THIS. SparkNotes, TutorialsPoint, and a few YouTube videos
